@@ -4,3 +4,5 @@ Carolina Patiño tiene 29 años y nació en Colombia,
 viviendo en todo el mundo
 
 Hoy hablaremos de su historia.
+
+esto es una clase de git
